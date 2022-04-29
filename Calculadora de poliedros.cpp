@@ -49,4 +49,4 @@ int main()
 }
 
 //version original: @BrunoxFakeCoder. 
-//version mejorado: @IvanIxZrix.
+//version mejorada: @IvanIxZrix.
