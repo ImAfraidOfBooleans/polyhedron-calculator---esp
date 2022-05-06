@@ -13,6 +13,7 @@ using namespace std;
     string msg4 = "\nIntroduzca el numero de aristas: ";
     string msg5 = "\nEl poliedro es simple.\n";
     string msg6 = "\nEl poliedro no es simple.\n";
+    string msg7 = "\npara hacer otros calculo presione 1, para salir 0 \n";
 /*----------------------------------------------------------------------------------*/
 int main()
 {	
@@ -38,7 +39,7 @@ int main()
     	  cout << msg6;
    		}
 		
-		cout << "\npara hacer otros calculo presione 1, para salir 0 \n";
+		cout << msg7;
 		cin >> repetir;
 		if (repetir == 1)
 		system("cls");	    
