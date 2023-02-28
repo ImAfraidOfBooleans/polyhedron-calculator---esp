@@ -50,4 +50,4 @@ int main()
 }
 
 //version original: @BrunoxFakeCoder. 
-//version mejorada: @IvanIxZrix.
+//version mejorada: @ImAfraidOfBooleans.
