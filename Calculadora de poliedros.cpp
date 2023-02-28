@@ -49,5 +49,5 @@ int main()
     return 0; 
 }
 
-//version original: @BrunoxFakeCoder. 
+//version original: @BooleanTrueTrue. 
 //version mejorada: @ImAfraidOfBooleans.
